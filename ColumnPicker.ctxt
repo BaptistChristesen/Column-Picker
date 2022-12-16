@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ColumnPicker
+comment0.text=\n\ Counts\ the\ number\ of\ beepers\ in\ a\ column\ and\ puts\ the\ same\n\ number\ of\ beepers\ at\ the\ base\ of\ the\ column\n\ \n\ @author\ \n\ @version\ \n
+comment1.params=
+comment1.target=int\ countABeeper()
+comment2.params=
+comment2.target=int\ pickAllBeepers()
+comment3.params=numToPut
+comment3.target=void\ putNBeepers(int)
+comment4.params=streets
+comment4.target=int\ countColumn(int)
+comment5.params=
+comment5.target=void\ singleColumn()
+comment6.params=
+comment6.target=void\ countColumns()
+numComments=7
